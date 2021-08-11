@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Symbols resource pack for FarmingIsland Server",
+        "name": "FI-Symbols",
+        "uuid": "0fc0a768-9b98-49f7-b534-7b3ce8f570d8",
+        "version": [0, 1, 1]
+    },
+    "modules": [
+        {
+            "description":  "Made For JINODK Network",
+            "type": "resources",
+            "uuid": "bad0a2d8-4fd7-4990-902c-244b9dccb856",
+            "version": [0, 1, 1]
+        }
+    ]
+}
